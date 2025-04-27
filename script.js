@@ -62,7 +62,7 @@ projectsArray.forEach((project)=>{
     projectEL.className = "project"
 
     projectEL.innerHTML = `
-     <img src="${project.imgSrc}" alt="CountryAPI" loading="lazy">
+     <img src="${project.imgSrc}" alt="" loading="lazy">
             <div class="project-content">
                 <p class="project-heading">${project.title}</p>
                 <P class="tech-stack">${project.techStack}</p>
