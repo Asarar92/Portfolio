@@ -40,8 +40,8 @@ const projectsArray = [
     techStack: "HTML, CSS , JS",
     imgSrc: "/resources/img/Burgur.png",
     desc: " Implemented the hamurgur dropdown  and  made the design reponsive for different devices",
-    githubLink: "https://burgurmania.netlify.app/",
-    demoLink: "https://github.com/Asarar92/BurgerMania",
+    githubLink: "https://github.com/Asarar92/BurgerMania",
+    demoLink: "https://burgurmania.netlify.app/",
   },
 
 
