@@ -30,10 +30,21 @@ const projectsArray = [
     title: "Focus On Today",
     techStack: "HTML, CSS , JS",
     imgSrc: "/resources/img/Todo.png",
-    desc: " A too website inspired by frontend mentor challenge ",
+    desc: " A website inspired by frontend mentor challenge",
     githubLink: "https://github.com/Asarar92/Focus-On-Today",
     demoLink: "https://focus-on-today-vanialla.netlify.app/",
   },
+
+  {
+    title: "BurgurMania",
+    techStack: "HTML, CSS , JS",
+    imgSrc: "/resources/img/Burgur.png",
+    desc: " Implemented the hamurgur dropdown  and  made the design reponsive for different devices",
+    githubLink: "https://burgurmania.netlify.app/",
+    demoLink: "https://github.com/Asarar92/BurgerMania",
+  },
+
+
 ];
 
 socialHandles.forEach((social, index) => {
